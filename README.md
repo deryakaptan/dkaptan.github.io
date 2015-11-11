@@ -22,7 +22,7 @@ In 1997, Apple purchased NeXT, allowing Jobs to become the former's CEO once aga
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Stevejobs_Macworld2005.jpg" alt="Steve Jobs" width="250" height="400">
 <h2 align="left">REFERENCES</h2>
 <ol type="1" align="left">
-   <li>https://en.wikipedia.org/wiki/Erol_Gelenbe</li>
+   <li>https://en.wikipedia.org/wiki/Steve_Jobs</li>
   
 </ol>  
 
